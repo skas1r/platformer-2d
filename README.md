@@ -2,21 +2,23 @@
 
 A simple 2D platformer built with Unity. Explore the path through the forest, overcome the terrain and obstacles, and reach the final statue to win.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ecf0888c-4d3a-4853-b5d6-cbb7bd586048" />
+
 ## Features
 
 - Side-scrolling 2D platforming
-- Four playable scenes (`Scene_1` through `Scene_4`)
+- Four playable scenes
 - Unity 2D sprites, tile palettes, animations, prefabs, and materials
 - Player movement and camera support powered by Unity's 2D and Input System features
 - Cinemachine camera tooling
 - TextMesh Pro interface support
 - Sound effects and audio manager configuration
-- A Windows build included in `Biuld/v1.0` (folder name preserved as in the project)
+- A Windows build included in `Biuld/v1.0`
 
 ## Requirements
 
 - Unity Hub
-- Unity Editor **6000.3.24f1** (matching `ProjectSettings/ProjectVersion.txt`)
+- Unity Editor **6000.3.24f1**
 - A Windows, macOS, or Linux system capable of running the Unity Editor
 
 The project also uses the Unity 2D feature set, the new Input System, Cinemachine, TextMesh Pro, and Unity Visual Scripting. These packages are declared in `Packages/manifest.json` and can be restored automatically by the Editor.
@@ -36,7 +38,7 @@ The project also uses the Unity 2D feature set, the new Input System, Cinemachin
 5. In the Project window, open `Assets/Scenes/Scene_1.unity`.
 6. Press **Play** in the Unity Editor.
 
-To export the game, use **File > Build Profiles** (or **File > Build Settings** in older versions), select your target platform, and choose **Build**.
+To export the game, use **File > Build Profiles**, select your target platform, and choose **Build**.
 
 ## Run the included Windows build
 
