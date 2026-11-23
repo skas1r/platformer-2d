@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: ad14158734b866f409d06646cef19f14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5231270185983811618
+    second: UI Asset Dark Icons_0
+  - first:
+      213: 5406200734891473910
+    second: UI Asset Dark Icons_1
+  - first:
+      213: -9026188139091234391
+    second: UI Asset Dark Icons_2
+  - first:
+      213: 1650168958083400641
+    second: UI Asset Dark Icons_3
+  - first:
+      213: 1814219332649510438
+    second: UI Asset Dark Icons_4
+  - first:
+      213: 8973497736786337345
+    second: UI Asset Dark Icons_5
+  - first:
+      213: -1922035160722337875
+    second: UI Asset Dark Icons_6
+  - first:
+      213: -5073018455600527806
+    second: UI Asset Dark Icons_7
+  - first:
+      213: 2474518744224091386
+    second: UI Asset Dark Icons_8
+  - first:
+      213: 7077271673312542605
+    second: UI Asset Dark Icons_9
+  - first:
+      213: -3363517050371175708
+    second: UI Asset Dark Icons_10
+  - first:
+      213: 7263929840072917739
+    second: UI Asset Dark Icons_11
+  - first:
+      213: 1068036460966887945
+    second: UI Asset Dark Icons_12
+  - first:
+      213: 4904068172441518346
+    second: UI Asset Dark Icons_13
+  - first:
+      213: -2009184839050174904
+    second: UI Asset Dark Icons_14
+  - first:
+      213: 1146075732854411252
+    second: UI Asset Dark Icons_15
+  - first:
+      213: -2278368387990725490
+    second: UI Asset Dark Icons_16
+  - first:
+      213: -3275899727435743002
+    second: UI Asset Dark Icons_17
+  - first:
+      213: -6266881672869101221
+    second: UI Asset Dark Icons_18
+  - first:
+      213: 6079608259612397714
+    second: UI Asset Dark Icons_19
+  - first:
+      213: 4907575552790103835
+    second: UI Asset Dark Icons_20
+  - first:
+      213: 686372140014134099
+    second: UI Asset Dark Icons_21
+  - first:
+      213: 2371385409435538726
+    second: UI Asset Dark Icons_22
+  - first:
+      213: 7712170784004593963
+    second: UI Asset Dark Icons_23
+  - first:
+      213: -2993378027091356050
+    second: UI Asset Dark Icons_24
+  - first:
+      213: 5314777955014935916
+    second: UI Asset Dark Icons_25
+  - first:
+      213: 8366949095111778044
+    second: UI Asset Dark Icons_26
+  - first:
+      213: 340913187049577918
+    second: UI Asset Dark Icons_27
+  - first:
+      213: 4126893827308028081
+    second: UI Asset Dark Icons_28
+  - first:
+      213: -2781730703114387645
+    second: UI Asset Dark Icons_29
+  - first:
+      213: -1760705568689889477
+    second: UI Asset Dark Icons_30
+  - first:
+      213: 6798547673710075712
+    second: UI Asset Dark Icons_31
+  - first:
+      213: 8760010629779667214
+    second: UI Asset Dark Icons_32
+  - first:
+      213: 1595057135959170534
+    second: UI Asset Dark Icons_33
+  - first:
+      213: 4681030038014124388
+    second: UI Asset Dark Icons_34
+  - first:
+      213: -2009837413857047223
+    second: UI Asset Dark Icons_35
+  - first:
+      213: 5719307573171387168
+    second: UI Asset Dark Icons_36
+  - first:
+      213: -5427732358003988252
+    second: UI Asset Dark Icons_37
+  - first:
+      213: 345383300413128459
+    second: UI Asset Dark Icons_38
+  - first:
+      213: -7129858882233850624
+    second: UI Asset Dark Icons_39
+  - first:
+      213: 1038266184414588431
+    second: UI Asset Dark Icons_40
+  - first:
+      213: -8159960108199635739
+    second: UI Asset Dark Icons_41
+  - first:
+      213: -8777751049130378039
+    second: UI Asset Dark Icons_42
+  - first:
+      213: 3575382484619335444
+    second: UI Asset Dark Icons_43
+  - first:
+      213: 5052151691967361357
+    second: UI Asset Dark Icons_44
+  - first:
+      213: -800529306209503993
+    second: UI Asset Dark Icons_45
+  - first:
+      213: -525974267582138394
+    second: UI Asset Dark Icons_46
+  - first:
+      213: -8347127070924574347
+    second: UI Asset Dark Icons_47
+  - first:
+      213: 6006446810772594435
+    second: UI Asset Dark Icons_48
+  - first:
+      213: -2138455216882752728
+    second: UI Asset Dark Icons_49
+  - first:
+      213: 5888035053241773359
+    second: UI Asset Dark Icons_50
+  - first:
+      213: -4477425347625065314
+    second: UI Asset Dark Icons_51
+  - first:
+      213: -2102696422637512083
+    second: UI Asset Dark Icons_52
+  - first:
+      213: -3879781542283808800
+    second: UI Asset Dark Icons_53
+  - first:
+      213: 8648292316508098914
+    second: UI Asset Dark Icons_54
+  - first:
+      213: 2463931790230589678
+    second: UI Asset Dark Icons_55
+  - first:
+      213: 7753699571512216130
+    second: UI Asset Dark Icons_56
+  - first:
+      213: -6416183538702625929
+    second: UI Asset Dark Icons_57
+  - first:
+      213: 4867988396772934860
+    second: UI Asset Dark Icons_58
+  - first:
+      213: 7385299689200236417
+    second: UI Asset Dark Icons_59
+  - first:
+      213: -7651346224019801225
+    second: UI Asset Dark Icons_60
+  - first:
+      213: -3873016095202310869
+    second: UI Asset Dark Icons_61
+  - first:
+      213: 7635779307338078848
+    second: UI Asset Dark Icons_62
+  - first:
+      213: 9110371149257347900
+    second: UI Asset Dark Icons_63
+  - first:
+      213: -8103553519938975455
+    second: UI Asset Dark Icons_64
+  - first:
+      213: 5681433156704342900
+    second: UI Asset Dark Icons_65
+  - first:
+      213: 9167259919137104748
+    second: UI Asset Dark Icons_66
+  - first:
+      213: 1749606373746630424
+    second: UI Asset Dark Icons_67
+  - first:
+      213: 5043328476669165291
+    second: UI Asset Dark Icons_68
+  - first:
+      213: 8098325994941667705
+    second: UI Asset Dark Icons_69
+  - first:
+      213: -615925323675464082
+    second: UI Asset Dark Icons_70
+  - first:
+      213: 3521563493996103384
+    second: UI Asset Dark Icons_71
+  - first:
+      213: -7144103968176034462
+    second: UI Asset Dark Icons_72
+  - first:
+      213: 7034378680654603820
+    second: UI Asset Dark Icons_73
+  - first:
+      213: 4687284096535521867
+    second: UI Asset Dark Icons_74
+  - first:
+      213: 75440554247010285
+    second: UI Asset Dark Icons_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 349
+        width: 150
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22028a78484399840800000000000000
+      internalID: 5231270185983811618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 349
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb79a3dceea60b40800000000000000
+      internalID: 5406200734891473910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 382
+        width: 95
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a17f95d5b98cb280800000000000000
+      internalID: -9026188139091234391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 397
+        width: 95
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c300f5ace396e610800000000000000
+      internalID: 1650168958083400641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_4
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 385
+        width: 89
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6266833fed66d2910800000000000000
+      internalID: 1814219332649510438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 365
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14edbe1e5a4488c70800000000000000
+      internalID: 8973497736786337345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 370
+        width: 89
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf8557643f8355e0800000000000000
+      internalID: -1922035160722337875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 355
+        width: 89
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2460ee6b7940999b0800000000000000
+      internalID: -5073018455600527806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_8
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 341
+        width: 89
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcc583ffa1475220800000000000000
+      internalID: 2474518744224091386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 301
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f7ab20715873260800000000000000
+      internalID: 7077271673312542605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 301
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea08a830136251d0800000000000000
+      internalID: -3363517050371175708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 301
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be208ee14b9aec460800000000000000
+      internalID: 7263929840072917739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 301
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902c817a08d62de00800000000000000
+      internalID: 1068036460966887945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 326
+        width: 89
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a010dac1500ce0440800000000000000
+      internalID: 4904068172441518346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 311
+        width: 89
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e5054b801fd14e0800000000000000
+      internalID: -2009184839050174904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 253
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff8b7e8ecda7ef00800000000000000
+      internalID: 1146075732854411252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 253
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c555eb50c9160e0800000000000000
+      internalID: -2278368387990725490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 253
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0c46aed8aa982d0800000000000000
+      internalID: -3275899727435743002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 253
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b514b3762509709a0800000000000000
+      internalID: -6266881672869101221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 253
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2905abf308b1f5450800000000000000
+      internalID: 6079608259612397714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 253
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17027cb6f53b1440800000000000000
+      internalID: 4907575552790103835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_21
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 253
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353644523db768900800000000000000
+      internalID: 686372140014134099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 253
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62513fa377ad8e020800000000000000
+      internalID: 2371385409435538726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_23
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 253
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b295dbb9772270b60800000000000000
+      internalID: 7712170784004593963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_24
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 253
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6692c04b826576d0800000000000000
+      internalID: -2993378027091356050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 205
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c650eb42462e1c940800000000000000
+      internalID: 5314777955014935916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 205
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfed9eb3fdf5d1470800000000000000
+      internalID: 8366949095111778044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 205
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd1655ccba2bb400800000000000000
+      internalID: 340913187049577918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 205
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0827a121ca54930800000000000000
+      internalID: 4126893827308028081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 205
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fb11ce9ae4569d0800000000000000
+      internalID: -2781730703114387645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 205
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fdf282d97b097e0800000000000000
+      internalID: -1760705568689889477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_31
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 205
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f1c08c61b495e50800000000000000
+      internalID: 6798547673710075712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_32
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 205
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09b9a8514fc19970800000000000000
+      internalID: 8760010629779667214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_33
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 205
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed5c41a308c22610800000000000000
+      internalID: 1595057135959170534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_34
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 205
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461e3c6b40c56f040800000000000000
+      internalID: 4681030038014124388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 157
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dc2ca458f9b14e0800000000000000
+      internalID: -2009837413857047223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 157
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bf4148fef0f5f40800000000000000
+      internalID: 5719307573171387168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 157
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e867418d22dca4b0800000000000000
+      internalID: -5427732358003988252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 157
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ff974284c0bc400800000000000000
+      internalID: 345383300413128459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 157
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005a9c94f17ad0d90800000000000000
+      internalID: -7129858882233850624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 157
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ee4500899a86e00800000000000000
+      internalID: 1038266184414588431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_41
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 157
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e41761d38ff1ce80800000000000000
+      internalID: -8159960108199635739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_42
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 157
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc75c56de92f2680800000000000000
+      internalID: -8777751049130378039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_43
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 157
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41793e33d6f4e9130800000000000000
+      internalID: 3575382484619335444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_44
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 157
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d417a174239dc1640800000000000000
+      internalID: 5052151691967361357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 109
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705b71f56d2f3e4f0800000000000000
+      internalID: -800529306209503993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 109
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e735cbb03d53b8f0800000000000000
+      internalID: -525974267582138394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_47
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 109
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5717e7a672c092c80800000000000000
+      internalID: -8347127070924574347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_48
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 109
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fd0660d8f2b5350800000000000000
+      internalID: 6006446810772594435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_49
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 109
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8236f9d6f4ea252e0800000000000000
+      internalID: -2138455216882752728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_50
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 115
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d268d4fa086b150800000000000000
+      internalID: 5888035053241773359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_51
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 117
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e946a766e5dfcd1c0800000000000000
+      internalID: -4477425347625065314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_52
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 118
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ad4328eb8b1d2e0800000000000000
+      internalID: -2102696422637512083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_53
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 117
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef6e064e3f382ac0800000000000000
+      internalID: -3879781542283808800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_54
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 119
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261943f8a08e40870800000000000000
+      internalID: 8648292316508098914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_55
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 61
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee09c73a8e4a13220800000000000000
+      internalID: 2463931790230589678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_56
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 61
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a851fedacaa9b60800000000000000
+      internalID: 7753699571512216130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_57
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 61
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773dbe1e01325f6a0800000000000000
+      internalID: -6416183538702625929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 61
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4cf58b7a19e8340800000000000000
+      internalID: 4867988396772934860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_59
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 61
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187359630fadd7660800000000000000
+      internalID: 7385299689200236417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_60
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 67
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bf5c7d525f0d590800000000000000
+      internalID: -7651346224019801225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_61
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 76
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25881ca168404ac0800000000000000
+      internalID: -3873016095202310869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_62
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 70
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a1a2de2dcb7f960800000000000000
+      internalID: 7635779307338078848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_63
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33937b9a4a8e6e70800000000000000
+      internalID: 9110371149257347900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_64
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 68
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129cba112056a8f80800000000000000
+      internalID: -8103553519938975455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 13
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4731d70ca5188de40800000000000000
+      internalID: 5681433156704342900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_66
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 13
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63e7d38356a83f70800000000000000
+      internalID: 9167259919137104748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_67
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 13
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f5de32ab9d74810800000000000000
+      internalID: 1749606373746630424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_68
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 13
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee3a7167808df540800000000000000
+      internalID: 5043328476669165291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_69
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 13
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9795fcbe598036070800000000000000
+      internalID: 8098325994941667705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_70
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e08227e2bc377f0800000000000000
+      internalID: -615925323675464082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_71
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 21
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d60f99f65b1fd030800000000000000
+      internalID: 3521563493996103384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_72
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 21
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26da862ca4b0bdc90800000000000000
+      internalID: -7144103968176034462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_73
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 22
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26affbe3222f9160800000000000000
+      internalID: 7034378680654603820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_74
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 22
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a665f2d049c0140800000000000000
+      internalID: 4687284096535521867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Asset Dark Icons_75
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 21
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de73d8dc8c40c0100800000000000000
+      internalID: 75440554247010285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI Asset Dark Icons_0: 5231270185983811618
+      UI Asset Dark Icons_1: 5406200734891473910
+      UI Asset Dark Icons_10: -3363517050371175708
+      UI Asset Dark Icons_11: 7263929840072917739
+      UI Asset Dark Icons_12: 1068036460966887945
+      UI Asset Dark Icons_13: 4904068172441518346
+      UI Asset Dark Icons_14: -2009184839050174904
+      UI Asset Dark Icons_15: 1146075732854411252
+      UI Asset Dark Icons_16: -2278368387990725490
+      UI Asset Dark Icons_17: -3275899727435743002
+      UI Asset Dark Icons_18: -6266881672869101221
+      UI Asset Dark Icons_19: 6079608259612397714
+      UI Asset Dark Icons_2: -9026188139091234391
+      UI Asset Dark Icons_20: 4907575552790103835
+      UI Asset Dark Icons_21: 686372140014134099
+      UI Asset Dark Icons_22: 2371385409435538726
+      UI Asset Dark Icons_23: 7712170784004593963
+      UI Asset Dark Icons_24: -2993378027091356050
+      UI Asset Dark Icons_25: 5314777955014935916
+      UI Asset Dark Icons_26: 8366949095111778044
+      UI Asset Dark Icons_27: 340913187049577918
+      UI Asset Dark Icons_28: 4126893827308028081
+      UI Asset Dark Icons_29: -2781730703114387645
+      UI Asset Dark Icons_3: 1650168958083400641
+      UI Asset Dark Icons_30: -1760705568689889477
+      UI Asset Dark Icons_31: 6798547673710075712
+      UI Asset Dark Icons_32: 8760010629779667214
+      UI Asset Dark Icons_33: 1595057135959170534
+      UI Asset Dark Icons_34: 4681030038014124388
+      UI Asset Dark Icons_35: -2009837413857047223
+      UI Asset Dark Icons_36: 5719307573171387168
+      UI Asset Dark Icons_37: -5427732358003988252
+      UI Asset Dark Icons_38: 345383300413128459
+      UI Asset Dark Icons_39: -7129858882233850624
+      UI Asset Dark Icons_4: 1814219332649510438
+      UI Asset Dark Icons_40: 1038266184414588431
+      UI Asset Dark Icons_41: -8159960108199635739
+      UI Asset Dark Icons_42: -8777751049130378039
+      UI Asset Dark Icons_43: 3575382484619335444
+      UI Asset Dark Icons_44: 5052151691967361357
+      UI Asset Dark Icons_45: -800529306209503993
+      UI Asset Dark Icons_46: -525974267582138394
+      UI Asset Dark Icons_47: -8347127070924574347
+      UI Asset Dark Icons_48: 6006446810772594435
+      UI Asset Dark Icons_49: -2138455216882752728
+      UI Asset Dark Icons_5: 8973497736786337345
+      UI Asset Dark Icons_50: 5888035053241773359
+      UI Asset Dark Icons_51: -4477425347625065314
+      UI Asset Dark Icons_52: -2102696422637512083
+      UI Asset Dark Icons_53: -3879781542283808800
+      UI Asset Dark Icons_54: 8648292316508098914
+      UI Asset Dark Icons_55: 2463931790230589678
+      UI Asset Dark Icons_56: 7753699571512216130
+      UI Asset Dark Icons_57: -6416183538702625929
+      UI Asset Dark Icons_58: 4867988396772934860
+      UI Asset Dark Icons_59: 7385299689200236417
+      UI Asset Dark Icons_6: -1922035160722337875
+      UI Asset Dark Icons_60: -7651346224019801225
+      UI Asset Dark Icons_61: -3873016095202310869
+      UI Asset Dark Icons_62: 7635779307338078848
+      UI Asset Dark Icons_63: 9110371149257347900
+      UI Asset Dark Icons_64: -8103553519938975455
+      UI Asset Dark Icons_65: 5681433156704342900
+      UI Asset Dark Icons_66: 9167259919137104748
+      UI Asset Dark Icons_67: 1749606373746630424
+      UI Asset Dark Icons_68: 5043328476669165291
+      UI Asset Dark Icons_69: 8098325994941667705
+      UI Asset Dark Icons_7: -5073018455600527806
+      UI Asset Dark Icons_70: -615925323675464082
+      UI Asset Dark Icons_71: 3521563493996103384
+      UI Asset Dark Icons_72: -7144103968176034462
+      UI Asset Dark Icons_73: 7034378680654603820
+      UI Asset Dark Icons_74: 4687284096535521867
+      UI Asset Dark Icons_75: 75440554247010285
+      UI Asset Dark Icons_8: 2474518744224091386
+      UI Asset Dark Icons_9: 7077271673312542605
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
